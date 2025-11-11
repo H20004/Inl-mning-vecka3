@@ -1,0 +1,6 @@
+lade till reflektion.txt
+git status
+git branch -vv
+git push -u origin funktion1-branch
+
+
