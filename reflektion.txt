@@ -4,3 +4,4 @@ git branch -vv
 git push -u origin funktion1-branch
 
 
+
