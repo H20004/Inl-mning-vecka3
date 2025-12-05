@@ -1,0 +1,5 @@
+Innan kursen visste jag bara lite om programmering och hur man skriver kod. Nu förstår jag mer om hur utveckling fungerar i praktiken, hur man jobbar i team, använder Git, samarbetar och testar sin kod.
+DevOps betyder för mig att utveckling och drift jobbar tillsammans för att snabbt och enkelt kunna släppa ny kod.
+Molnet känns spännande eftersom det är lätt att använda och skala upp, men också svårt eftersom det finns många tjänster och säkerheten måste fungera.
+Att vara systemutvecklare i ett team handlar om att samarbeta, dela uppgifter och bygga lösningar tillsammans.
+Det mest intressanta under kursens tre veckor har varit att lära mig Git, DevOps och hur molnet fungerar.
