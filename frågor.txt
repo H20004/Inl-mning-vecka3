@@ -1,0 +1,5 @@
+IaaS är typ som att hyra en tom dator i molnet. PaaS är mer som att hyra en färdig arbetsplats. SaaS är bara att använda en färdig app utan att tänka på något.
+Git sparar alla ändringar du gör i kod så du kan gå tillbaka om något går fel. GitHub är bara stället där allt ligger online så du och andra kan jobba ihop.
+Det är egentligen bara ett system som hjälper till att hantera info — typ samla, spara och visa det på ett vettigt sätt.
+et är tre saker man vill att information ska ha: den ska vara hemlig, inte ändrad, och gå att komma åt när man behöver den.
+Det är när systemet direkt testar din kod så fort du laddar upp den, så du slipper bli överraskad av fel input senare.
